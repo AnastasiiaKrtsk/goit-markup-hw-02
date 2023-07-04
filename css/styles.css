@@ -37,10 +37,10 @@ body {
   font-size: 16px;
   color: #434455;
 }
-a.link {
+.link {
   text-decoration: none;
 }
-ul.list {
+.list {
   list-style: none;
   text-decoration: none;
 }
