@@ -19,16 +19,15 @@ body {
   line-height: 24px;
   letter-spacing: 0.32px;
 }
-.contacts {
+.contact {
   color: #434455;
   font-style: normal;
-  transition: background-color 0.15s, color 0.15s;
 }
-.contacts:hover {
+.contact:hover {
   cursor: pointer;
   color: #404bbf;
 }
-.contacts:focus {
+.contact:focus {
   color: #404bbf;
 }
 .li-class {
@@ -68,7 +67,6 @@ ul {
   line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
-  transition: background-color 0.15s, color 0.15s;
 }
 .logo:hover {
   cursor: pointer;
@@ -136,8 +134,6 @@ ul {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.64px;
-
-  transition: background-color 0.15s, color 0.15s;
 }
 .buttons:hover {
   color: #ffffff;
