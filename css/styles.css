@@ -132,20 +132,6 @@ body {
   background-color: #ffffff;
 }
 
-/* .s-p-c-link {
-  color: #2e2f42;
-  font-weight: 500;
-  line-height: 24px;
-  transition: background-color 0.15s, color 0.15s;
-}
-.s-p-c-link:hover {
-  color: #404bbf;
-  cursor: pointer;
-}
-.s-p-c-link:focus {
-  color: #404bbf;
-} */
-
 .buttons {
   cursor: pointer;
   background-color: #f4f4fd;
